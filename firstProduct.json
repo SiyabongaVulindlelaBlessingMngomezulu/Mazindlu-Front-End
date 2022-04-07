@@ -1,0 +1,92 @@
+{"id":4564240174,"name":"Jaiva","upc":"151869104566","catalog_number":"151869104566","state":"DELIVERED","suborg_state":null,"label":{"id":4564240161,"name":
+"3960 Studios"},"consumer_release_date":"2021-11-02T00:00:00","consumer_release_time":null,"original_release_date":"2021-11-02T00:00:00","added_date":"2021-1
+0-25T21:29:03","release_version":"Radio Edit","preorder_date":null,"release_format_type":"SINGLE","catalog_tier":"FRONT","compilation":false,"total_volumes":
+1,"recording_location":null,"recording_year":null,"c_line_year":2021,"c_line_text":"3960 Studios","p_line_year":2021,"p_line_text":"3960 Studios","language":
+"ZU","parental_advisory":false,"genre":{"id":"DANCE","name":"Dance"},"subgenre":{"id":4060284797,"name":"House"},"alternate_genre":null,"alternate_subgenre":
+null,"display_artist":"HesDark featuring Okay Prim","acquisition":{"id":4564240175,"acquisition_type":"OWNERSHIP"},"product_type":"AUDIO_PRODUCT","mastered_f
+or_itunes":false,"album_notes":null,"label_copy_info":null,"artwork":[{"image":{"id":4564240183,"created_date":"2021-10-25T21:29:03","modified_date":"2021-10
+-25T21:29:10","original_filename":"album_cover.617317e298bb5d4778f3bdc0.jpg","vault_hook":"34c522b5b31d0d921d1b9d6187ebb19f.jpg","has_uploaded":false,"resolu
+tion_width":1408,"resolution_height":1408}}],"cover_image":{"id":4564240183,"created_date":"2021-10-25T21:29:03","modified_date":"2021-10-25T21:29:10","origi
+nal_filename":"album_cover.617317e298bb5d4778f3bdc0.jpg","vault_hook":"34c522b5b31d0d921d1b9d6187ebb19f.jpg","has_uploaded":true,"resolution_width":1408,"res
+olution_height":1408},"organization":{"id":3970534234,"name":"Fyve Industries (Pty) Ltd"},"created_date":"2021-10-25T21:29:03","modified_date":"2021-10-25T21
+:38:27","last_review_item":null,"required_fields":[],"total_assets":1,"assets":[{"id":4564240260,"isrc":"ZA5272132578","type":"TRACK","name":"Jaiva","display
+_artist":"HesDark featuring Okay Prim","asset_version":"Radio Edit","volume":1,"duration":250,"sequence":1,"parental_advisory":"NO","audio":{"id":4564240261,
+"original_filename":"Jaiva.617317eb98bb5d4778f3bdc1.wav","vault_hook":"9211e9fa674340fe8d8495567fc4eab0.flac","created_date":"2021-10-25T21:29:04","modified_
+date":"2021-10-25T21:29:28","has_uploaded":true},"genre":{"id":"DANCE","name":"Dance"},"required_fields":[],"artists":[{"id":4564240124,"name":"HesDark","pri
+mary":true},{"id":4564240388,"name":"Okay Prim","primary":false}],"video":{"has_uploaded":false}}],"artists":[{"id":4564240124,"name":"HesDark","primary":tru
+e},{"id":4564240388,"name":"Okay Prim","primary":false}],"tags":[],"territories":[{"code":"BI","id":"BI","name":"Burundi"},{"code":"ID","id":"ID","name":"Ind
+onesia"},{"code":"TD","id":"TD","name":"Chad"},{"code":"LC","id":"LC","name":"Saint Lucia"},{"code":"CI","id":"CI","name":"Cote d'Ivoire"},{"code":"ZA","id":
+"ZA","name":"South Africa"},{"code":"DJ","id":"DJ","name":"Djibouti"},{"code":"CO","id":"CO","name":"Colombia"},{"code":"SX","id":"SX","name":"Sint Maarten (
+Dutch part)"},{"code":"KZ","id":"KZ","name":"Kazakhstan"},{"code":"BM","id":"BM","name":"Bermuda"},{"code":"BV","id":"BV","name":"Bouvet Island"},{"code":"EE
+","id":"EE","name":"Estonia"},{"code":"AT","id":"AT","name":"Austria"},{"code":"IT","id":"IT","name":"Italy"},{"code":"CL","id":"CL","name":"Chile"},{"code":
+"LI","id":"LI","name":"Liechtenstein"},{"code":"RE","id":"RE","name":"Reunion"},{"code":"CF","id":"CF","name":"Central African Republic"},{"code":"MS","id":"
+MS","name":"Montserrat"},{"code":"UZ","id":"UZ","name":"Uzbekistan"},{"code":"CA","id":"CA","name":"Canada"},{"code":"SB","id":"SB","name":"Solomon Islands"}
+,{"code":"GU","id":"GU","name":"Guam"},{"code":"DK","id":"DK","name":"Denmark"},{"code":"SZ","id":"SZ","name":"Swaziland"},{"code":"AR","id":"AR","name":"Arg
+entina"},{"code":"SR","id":"SR","name":"Suriname"},{"code":"TR","id":"TR","name":"Turkey"},{"code":"BJ","id":"BJ","name":"Benin"},{"code":"CM","id":"CM","nam
+e":"Cameroon"},{"code":"NE","id":"NE","name":"Niger"},{"code":"FR","id":"FR","name":"France"},{"code":"CU","id":"CU","name":"Cuba"},{"code":"CK","id":"CK","n
+ame":"Cook Islands"},{"code":"SK","id":"SK","name":"Slovakia"},{"code":"NA","id":"NA","name":"Namibia"},{"code":"BD","id":"BD","name":"Bangladesh"},{"code":"
+BH","id":"BH","name":"Bahrain"},{"code":"VI","id":"VI","name":"United States Virgin Islands"},{"code":"AU","id":"AU","name":"Australia"},{"code":"CG","id":"C
+G","name":"Congo"},{"code":"SN","id":"SN","name":"Senegal"},{"code":"KR","id":"KR","name":"Republic of Korea"},{"code":"GA","id":"GA","name":"Gabon"},{"code"
+:"SH","id":"SH","name":"Saint Helena"},{"code":"LB","id":"LB","name":"Lebanon"},{"code":"OCEANIA","id":"OCEANIA","name":"Oceania"},{"code":"ES","id":"ES","na
+me":"Spain"},{"code":"UA","id":"UA","name":"Ukraine"},{"code":"AS","id":"AS","name":"American Samoa"},{"code":"PF","id":"PF","name":"French Polynesia"},{"cod
+e":"SL","id":"SL","name":"Sierra Leone"},{"code":"SV","id":"SV","name":"El Salvador"},{"code":"BE","id":"BE","name":"Belgium"},{"code":"SI","id":"SI","name":
+"Slovenia"},{"code":"GR","id":"GR","name":"Greece"},{"code":"BN","id":"BN","name":"Brunei Darussalam"},{"code":"MO","id":"MO","name":"Macao"},{"code":"PN","i
+d":"PN","name":"Pitcairn"},{"code":"SS","id":"SS","name":"South Sudan"},{"code":"MM","id":"MM","name":"Myanmar"},{"code":"LK","id":"LK","name":"Sri Lanka"},{
+"code":"PE","id":"PE","name":"Peru"},{"code":"CN","id":"CN","name":"China"},{"code":"EH","id":"EH","name":"Western Sahara"},{"code":"LT","id":"LT","name":"Li
+thuania"},{"code":"SM","id":"SM","name":"San Marino"},{"code":"AM","id":"AM","name":"Armenia"},{"code":"SE","id":"SE","name":"Sweden"},{"code":"MD","id":"MD"
+,"name":"Republic of Moldova"},{"code":"HT","id":"HT","name":"Haiti"},{"code":"KG","id":"KG","name":"Kyrgyzstan"},{"code":"GQ","id":"GQ","name":"Equatorial G
+uinea"},{"code":"DO","id":"DO","name":"Dominican Republic"},{"code":"MQ","id":"MQ","name":"Martinique"},{"code":"MT","id":"MT","name":"Malta"},{"code":"ZW","
+id":"ZW","name":"Zimbabwe"},{"code":"NZ","id":"NZ","name":"New Zealand"},{"code":"FJ","id":"FJ","name":"Fiji"},{"code":"CW","id":"CW","name":"Curacao"},{"cod
+e":"PL","id":"PL","name":"Poland"},{"code":"AO","id":"AO","name":"Angola"},{"code":"HU","id":"HU","name":"Hungary"},{"code":"NL","id":"NL","name":"Netherland
+s"},{"code":"VU","id":"VU","name":"Vanuatu"},{"code":"BW","id":"BW","name":"Botswana"},{"code":"IR","id":"IR","name":"Iran (Islamic Republic of)"},{"code":"A
+X","id":"AX","name":"Aland Islands"},{"code":"IL","id":"IL","name":"Israel"},{"code":"NF","id":"NF","name":"Norfolk Island"},{"code":"FK","id":"FK","name":"F
+alkland Islands (Malvinas)"},{"code":"LY","id":"LY","name":"Libyan Arab Jamahiriya"},{"code":"TN","id":"TN","name":"Tunisia"},{"code":"IE","id":"IE","name":"
+Ireland"},{"code":"VA","id":"VA","name":"Holy See"},{"code":"BB","id":"BB","name":"Barbados"},{"code":"EUROPE","id":"EUROPE","name":"Europe"},{"code":"FO","i
+d":"FO","name":"Faeroe Islands"},{"code":"BO","id":"BO","name":"Bolivia"},{"code":"NO","id":"NO","name":"Norway"},{"code":"AFRICA","id":"AFRICA","name":"Afri
+ca"},{"code":"KH","id":"KH","name":"Cambodia"},{"code":"NR","id":"NR","name":"Nauru"},{"code":"KN","id":"KN","name":"Saint Kitts and Nevis"},{"code":"MC","id
+":"MC","name":"Monaco"},{"code":"GE","id":"GE","name":"Georgia"},{"code":"CC","id":"CC","name":"Cocos (Keeling) Islands"},{"code":"PK","id":"PK","name":"Paki
+stan"},{"code":"AI","id":"AI","name":"Anguilla"},{"code":"GF","id":"GF","name":"French Guiana"},{"code":"BY","id":"BY","name":"Belarus"},{"code":"KE","id":"K
+E","name":"Kenya"},{"code":"PT","id":"PT","name":"Portugal"},{"code":"MY","id":"MY","name":"Malaysia"},{"code":"RS","id":"RS","name":"Serbia"},{"code":"AE","
+id":"AE","name":"United Arab Emirates"},{"code":"KW","id":"KW","name":"Kuwait"},{"code":"MW","id":"MW","name":"Malawi"},{"code":"NP","id":"NP","name":"Nepal"
+},{"code":"WF","id":"WF","name":"Wallis and Futuna Islands"},{"code":"MZ","id":"MZ","name":"Mozambique"},{"code":"NU","id":"NU","name":"Niue"},{"code":"MK","
+id":"MK","name":"Macedonia (frm Yugoslavia)"},{"code":"GN","id":"GN","name":"Guinea"},{"code":"TL","id":"TL","name":"Timor-Leste"},{"code":"ST","id":"ST","na
+me":"Sao Tome and Principe"},{"code":"PH","id":"PH","name":"Philippines"},{"code":"VN","id":"VN","name":"Viet Nam"},{"code":"TV","id":"TV","name":"Tuvalu"},{
+"code":"GL","id":"GL","name":"Greenland"},{"code":"WS","id":"WS","name":"Samoa"},{"code":"JE","id":"JE","name":"Jersey"},{"code":"SC","id":"SC","name":"Seych
+elles"},{"code":"CR","id":"CR","name":"Costa Rica"},{"code":"PY","id":"PY","name":"Paraguay"},{"code":"BS","id":"BS","name":"Bahamas"},{"code":"CD","id":"CD"
+,"name":"Congo (DR)"},{"code":"ET","id":"ET","name":"Ethiopia"},{"code":"GT","id":"GT","name":"Guatemala"},{"code":"PG","id":"PG","name":"Papua New Guinea"},
+{"code":"EG","id":"EG","name":"Egypt"},{"code":"ASIA","id":"ASIA","name":"Asia"},{"code":"RO","id":"RO","name":"Romania"},{"code":"SG","id":"SG","name":"Sing
+apore"},{"code":"TO","id":"TO","name":"Tonga"},{"code":"WORLD","id":"WORLD","name":"World"},{"code":"TT","id":"TT","name":"Trinidad and Tobago"},{"code":"AME
+RICAS","id":"AMERICAS","name":"Americas"},{"code":"AG","id":"AG","name":"Antigua and Barbuda"},{"code":"AF","id":"AF","name":"Afghanistan"},{"code":"NG","id"
+:"NG","name":"Nigeria"},{"code":"BZ","id":"BZ","name":"Belize"},{"code":"IN","id":"IN","name":"India"},{"code":"MN","id":"MN","name":"Mongolia"},{"code":"MP"
+,"id":"MP","name":"Northern Mariana Islands"},{"code":"CV","id":"CV","name":"Cape Verde"},{"code":"UY","id":"UY","name":"Uruguay"},{"code":"YE","id":"YE","na
+me":"Yemen"},{"code":"TK","id":"TK","name":"Tokelau"},{"code":"ER","id":"ER","name":"Eritrea"},{"code":"FM","id":"FM","name":"Micronesia"},{"code":"KI","id":
+"KI","name":"Kiribati"},{"code":"IO","id":"IO","name":"British Indian Ocean Territory"},{"code":"BT","id":"BT","name":"Bhutan"},{"code":"IS","id":"IS","name"
+:"Iceland"},{"code":"TF","id":"TF","name":"French Southern Territories"},{"code":"HK","id":"HK","name":"Hong Kong"},{"code":"HN","id":"HN","name":"Honduras"}
+,{"code":"PW","id":"PW","name":"Palau"},{"code":"VC","id":"VC","name":"Saint Vincent and the Grenadines"},{"code":"CH","id":"CH","name":"Switzerland"},{"code
+":"BR","id":"BR","name":"Brazil"},{"code":"JP","id":"JP","name":"Japan"},{"code":"AD","id":"AD","name":"Andorra"},{"code":"DE","id":"DE","name":"Germany"},{"
+code":"BQ","id":"BQ","name":"Bonaire, Saint Eustatius and Saba"},{"code":"AZ","id":"AZ","name":"Azerbaijan"},{"code":"BL","id":"BL","name":"Saint Barthelemy"
+},{"code":"EC","id":"EC","name":"Ecuador"},{"code":"AQ","id":"AQ","name":"Antarctica"},{"code":"LU","id":"LU","name":"Luxembourg"},{"code":"KY","id":"KY","na
+me":"Cayman Islands"},{"code":"AL","id":"AL","name":"Albania"},{"code":"LS","id":"LS","name":"Lesotho"},{"code":"JM","id":"JM","name":"Jamaica"},{"code":"GB"
+,"id":"GB","name":"United Kingdom of Great Britain"},{"code":"LR","id":"LR","name":"Liberia"},{"code":"BF","id":"BF","name":"Burkina Faso"},{"code":"MR","id"
+:"MR","name":"Mauritania"},{"code":"UM","id":"UM","name":"US Minor Outlying Islands"},{"code":"MF","id":"MF","name":"Saint Martin"},{"code":"SO","id":"SO","n
+ame":"Somalia"},{"code":"KP","id":"KP","name":"Korea (DPRK)"},{"code":"HM","id":"HM","name":"Heard and McDonald Islands"},{"code":"TC","id":"TC","name":"Turk
+s and Caicos Islands"},{"code":"AW","id":"AW","name":"Aruba"},{"code":"VE","id":"VE","name":"Venezuela"},{"code":"TH","id":"TH","name":"Thailand"},{"code":"L
+A","id":"LA","name":"Laos (PDR)"},{"code":"MG","id":"MG","name":"Madagascar"},{"code":"BG","id":"BG","name":"Bulgaria"},{"code":"IM","id":"IM","name":"Isle O
+f Man"},{"code":"SA","id":"SA","name":"Saudi Arabia"},{"code":"GD","id":"GD","name":"Grenada"},{"code":"PM","id":"PM","name":"Saint Pierre and Miquelon"},{"c
+ode":"ME","id":"ME","name":"Montenegro"},{"code":"CY","id":"CY","name":"Cyprus"},{"code":"GG","id":"GG","name":"Guernsey"},{"code":"TJ","id":"TJ","name":"Taj
+ikistan"},{"code":"BA","id":"BA","name":"Bosnia and Herzegovina"},{"code":"GP","id":"GP","name":"Guadeloupe"},{"code":"MV","id":"MV","name":"Maldives"},{"cod
+e":"LV","id":"LV","name":"Latvia"},{"code":"CZ","id":"CZ","name":"Czech Republic"},{"code":"HR","id":"HR","name":"Croatia"},{"code":"US","id":"US","name":"Un
+ited States of America"},{"code":"GM","id":"GM","name":"Gambia"},{"code":"SJ","id":"SJ","name":"Svalbard and Jan Mayen Islands"},{"code":"GY","id":"GY","name
+":"Guyana"},{"code":"NC","id":"NC","name":"New Caledonia"},{"code":"FI","id":"FI","name":"Finland"},{"code":"GH","id":"GH","name":"Ghana"},{"code":"MH","id":
+"MH","name":"Marshall Islands"},{"code":"VG","id":"VG","name":"British Virgin Islands"},{"code":"TW","id":"TW","name":"Taiwan"},{"code":"MA","id":"MA","name"
+:"Morocco"},{"code":"YT","id":"YT","name":"Mayotte"},{"code":"SD","id":"SD","name":"Sudan"},{"code":"NI","id":"NI","name":"Nicaragua"},{"code":"PR","id":"PR"
+,"name":"Puerto Rico"},{"code":"IQ","id":"IQ","name":"Iraq"},{"code":"GW","id":"GW","name":"Guinea-Bissau"},{"code":"RW","id":"RW","name":"Rwanda"},{"code":"
+UG","id":"UG","name":"Uganda"},{"code":"CX","id":"CX","name":"Christmas Island"},{"code":"DM","id":"DM","name":"Dominica"},{"code":"KM","id":"KM","name":"Com
+oros"},{"code":"TZ","id":"TZ","name":"United Republic of Tanzania"},{"code":"SY","id":"SY","name":"Syrian Arab Republic"},{"code":"MX","id":"MX","name":"Mexi
+co"},{"code":"TG","id":"TG","name":"Togo"},{"code":"ML","id":"ML","name":"Mali"},{"code":"OM","id":"OM","name":"Oman"},{"code":"GS","id":"GS","name":"South G
+eorgia and South Sandwich Islands"},{"code":"GI","id":"GI","name":"Gibraltar"},{"code":"RU","id":"RU","name":"Russian Federation"},{"code":"DZ","id":"DZ","na
+me":"Algeria"},{"code":"MU","id":"MU","name":"Mauritius"},{"code":"JO","id":"JO","name":"Jordan"},{"code":"PA","id":"PA","name":"Panama"},{"code":"ZM","id":"
+ZM","name":"Zambia"},{"code":"QA","id":"QA","name":"Qatar"},{"code":"TM","id":"TM","name":"Turkmenistan"},{"code":"PS","id":"PS","name":"Occupied Palestinian
+ Territory"}],"custom_fields":[],"extra_1":null,"extra_2":null,"extra_3":null,"extra_4":null,"extra_5":null,"extra_6":null,"extra_7":null,"extra_8":null,"ext
+ra_9":null,"extra_10":null,"has_been_delivered":true,"hashed_key":"5cb09a9d8e26b97515fc3f3d7c5ea803","physical_product":null,"linked_product":null,"product_t
+ranslations":[],"parental_advisory_next":"NO"}

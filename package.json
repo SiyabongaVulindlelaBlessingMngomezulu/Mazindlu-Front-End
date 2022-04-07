@@ -1,0 +1,16 @@
+{
+  "name": "fuga-stuff",
+  "version": "1.0.0",
+  "description": "A web application for nextJS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "follow-redirects": "^1.14.4",
+    "request": "^2.88.2",
+    "set-cookie-parser": "^2.4.8"
+  }
+}
